@@ -24,14 +24,22 @@ A simple backend API using **FastAPI** and **Google Gemini Pro (gemini-2.5-pro)*
 
 git clone https://github.com/yourusername/gemini-chatbot-fastapi.git
 cd gemini-chatbot-fastapi
-2.Create a virtual environment (optional but recommended)
+
+2.Create a virtual environment (optional but recommended):
+
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 3.Install dependencies:
+
 pip install -r requirements.txt
+
 4.Set up your Gemini API key:
+
 GEMINI_API_KEY=your_actual_gemini_api_key
+
 5.Run the FastAPI server:
+
 uvicorn main:app --reload
 
 ---
