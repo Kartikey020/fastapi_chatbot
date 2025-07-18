@@ -20,7 +20,7 @@ A simple backend API using **FastAPI** and **Google Gemini Pro (gemini-2.5-pro)*
 
 ## 📦 Installation
 
-1. **Clone the repository**:
+1.Clone the repository:
 
 git clone https://github.com/yourusername/gemini-chatbot-fastapi.git
 cd gemini-chatbot-fastapi
